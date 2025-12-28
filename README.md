@@ -80,21 +80,23 @@ All vested tokens unlock linearly on a monthly basis.
 
 ### Allocation Table
 
-| Allocation | % | Exact Amount (LIVA) | Wallet | Vesting |
-|----------|---|--------------------|--------|---------|
-| Initial Liquidity | 10% | 1,000,000,000 | 61cPxiqGBrdV2eQLvqAWe7GpaTWss4QJhJNN8h5xEFKN | Instant |
-| Liquidity Reserve | 10% | 1,000,000,000 | GSZHpwx4d4vrdDGiHWjiL53JkWpHENPwfobt56eJMKmy | 12 Months |
-| Liquidity Management | 5% | 500,000,000 | EXPcmZBzNSZHUsvef3HRz5R5mEAgRWPB4ZXYtd4mZXLc | Instant |
-| Head Manage | 1% | 100,000,000 | JCQdZvpcBLuXf4xGRWWnrUzLCduukaAzUe2ggnyXxnZu | 24 Months |
-| Advertisement | 10% | 1,000,000,000 | E1ZMEtAfu4VFh8V9JCssf7f9pDVUTLmQiJoFg3EwUH89 | 12 Months |
-| Team Wallet 1 | 20% | 2,000,000,000 | CPRvYwXzfvDeXs7PB17QNJSvkzQvtDkaez1ZHNfaXPgS | 24 Months |
-| Team Wallet 2 | 20% | 2,000,000,000 | D8n2MUC1G92a28jfdTi8ZeDaKLpimnx6WiHSxta6x8Jp | 24 Months |
-| Team Wallet 3 | 10% | 1,000,000,000 | 2vHH8KurVmYPLeDuebsrfGpw67FVG4g3QBvawThN4dwF | 24 Months |
-| Development | 7% | 700,000,000 | EPD9brHxmerCAgMVVDfCrxz7aeNn4M2etAfZXNcipd9g | 12 Months |
-| Service Provider | 5% | 500,000,000 | 8WAERDnWei1d9iHjD5os81jnHgKuyqKKDJP5CbY4Y2Wn | 12 Months |
-| Staking Rewards | 2% | 200,000,000 | 61cPxiqGBrdV2eQLvqAWe7GpaTWss4QJhJNN8h5xEFKN | 12 Months |
+## 📊 LIVA Token Allocation & Vesting (Solana)
 
-Total Supply: 10,000,000,000 LIVA (100%)
+| Allocation | % | Exact Amount (LIVA) | Wallet (Solscan) | Vesting | Streamflow |
+|---|---:|---:|---|---|---|
+| **Initial Liquidity** | 10% | 1,000,000,000 | [61cPxiq…EFKN](https://solscan.io/account/61cPxiqGBrdV2eQLvqAWe7GpaTWss4QJhJNN8h5xEFKN) | Instant | — |
+| **Liquidity Reserve** | 10% | 1,000,000,000 | [2y2qap…SGH](https://solscan.io/account/2y2qapgkEeDSdJmmKYYEDucKqmzbePuTeVM6ieFb9SGH) | 12 Months | [View Vesting](https://app.streamflow.finance/vesting/solana/mainnet?recipient=2y2qapgkEeDSdJmmKYYEDucKqmzbePuTeVM6ieFb9SGH) |
+| **Liquidity Management** | 5% | 500,000,000 | [EXPcmZ…XLc](https://solscan.io/account/EXPcmZBzNSZHUsvef3HRz5R5mEAgRWPB4ZXYtd4mZXLc) | Instant | — |
+| **Head Manage** | 1% | 100,000,000 | [DdPgLw…ipy](https://solscan.io/account/DdPgLwHAjYraKQUunweF82G6wPNQeA8i9tTRrdMC3ipy) | 24 Months | [View Vesting](https://app.streamflow.finance/vesting/solana/mainnet?recipient=DdPgLwHAjYraKQUunweF82G6wPNQeA8i9tTRrdMC3ipy) |
+| **Advertisement** | 10% | 1,000,000,000 | [FB6MTp…gox](https://solscan.io/account/FB6MTpEE4BjBBywj6gUq9c9GiX3irmhkq4aJPQaAogox) | 12 Months | [View Vesting](https://app.streamflow.finance/vesting/solana/mainnet?recipient=FB6MTpEE4BjBBywj6gUq9c9GiX3irmhkq4aJPQaAogox) |
+| **Team Wallet 1** | 20% | 2,000,000,000 | [F8qatt…Crr](https://solscan.io/account/F8qattFFTk2KyUMbLS3jVUefkDApvADdyLRjXoAuYCrr) | 24 Months | [View Vesting](https://app.streamflow.finance/vesting/solana/mainnet?recipient=F8qattFFTk2KyUMbLS3jVUefkDApvADdyLRjXoAuYCrr) |
+| **Team Wallet 2** | 20% | 2,000,000,000 | [bAuW8T…u3z](https://solscan.io/account/bAuW8TM2PNAMETdJKv9HS9KefckxzGkCNEifbEr5u3z) | 24 Months | [View Vesting](https://app.streamflow.finance/vesting/solana/mainnet?recipient=bAuW8TM2PNAMETdJKv9HS9KefckxzGkCNEifbEr5u3z) |
+| **Team Wallet 3** | 10% | 1,000,000,000 | [BLEjix…RrR](https://solscan.io/account/BLEjixKfoQTfL49UrucTgqAMTpHsrSHhk3sYf8QjdrRr) | 24 Months | [View Vesting](https://app.streamflow.finance/vesting/solana/mainnet?recipient=BLEjixKfoQTfL49UrucKfoQTfL49UrucTgqAMTpHsrSHhk3sYf8QjdrRr) |
+| **Development** | 7% | 700,000,000 | [BeETE6…6Pj](https://solscan.io/account/BeETE6pihQ7MsbwxjjEQ2hjdqP8A5QxvX3i3fa8x46Pj) | 12 Months | [View Vesting](https://app.streamflow.finance/vesting/solana/mainnet?recipient=BeETE6pihQ7MsbwxjjEQ2hjdqP8A5QxvX3i3fa8x46Pj) |
+| **Service Provider** | 5% | 500,000,000 | [BGcBfE…Tpo6](https://solscan.io/account/BGcBfEwdd1BdvUiifoa64RHs7nmWsrrMFiXQ8PSCTpo6) | 12 Months | [View Vesting](https://app.streamflow.finance/vesting/solana/mainnet?recipient=BGcBfEwdd1BdvUiifoa64RHs7nmWsrrMFiXQ8PSCTpo6) |
+| **Staking Rewards** | 2% | 200,000,000 | [DbLYdZ…yfs](https://solscan.io/account/DbLYdZqd1hSyhu8AbTi3nvB9HuFEBEjRMxFyxZzrtyfs) | 12 Months | [Staking Pool](https://app.streamflow.finance/staking/solana/mainnet/DbLYdZqd1hSyhu8AbTi3nvB9HuFEBEjRMxFyxZzrtyfs) |
+| **Total Allocation** | **100%** | **10,000,000,000**
+
 
 ---
 
