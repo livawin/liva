@@ -5,6 +5,14 @@ Liva (LIVA) is a utility and governance token powering the Liva decentralized pr
 
 ---
 
+| ![](https://liva.win/assets/liva.png) | **Liva (LIVA)**  |
+|---|---|
+| **Mint** | `9jPXC1JL4VkRBEyEuUA4TrGAKUbh852Z734c1bBDQy74` |
+| **Website** | https://liva.win |
+| **Explorer** | https://solscan.io/token/9jPXC1JL4VkRBEyEuUA4TrGAKUbh852Z734c1bBDQy74 |
+
+---
+
 ## Official Links
 
 - Website: https://liva.win
