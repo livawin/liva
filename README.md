@@ -75,8 +75,8 @@ All vested tokens unlock linearly on a monthly basis.
 | Allocation | % | Exact Amount (LIVA) | Wallet | Vesting |
 |----------|---|--------------------|--------|---------|
 | Initial Liquidity | 10% | 1,000,000,000 | 61cPxiqGBrdV2eQLvqAWe7GpaTWss4QJhJNN8h5xEFKN | Instant |
-| Liquidity Reserve | 10% | 1,000,000,000 | EXPcmZBzNSZHUsvef3HRz5R5mEAgRWPB4ZXYtd4mZXLc | 12 Months |
-| Liquidity Management | 5% | 500,000,000 | 61cPxiqGBrdV2eQLvqAWe7GpaTWss4QJhJNN8h5xEFKN | Instant |
+| Liquidity Reserve | 10% | 1,000,000,000 | GSZHpwx4d4vrdDGiHWjiL53JkWpHENPwfobt56eJMKmy | 12 Months |
+| Liquidity Management | 5% | 500,000,000 | EXPcmZBzNSZHUsvef3HRz5R5mEAgRWPB4ZXYtd4mZXLc | Instant |
 | Head Manage | 1% | 100,000,000 | JCQdZvpcBLuXf4xGRWWnrUzLCduukaAzUe2ggnyXxnZu | 24 Months |
 | Advertisement | 10% | 1,000,000,000 | E1ZMEtAfu4VFh8V9JCssf7f9pDVUTLmQiJoFg3EwUH89 | 12 Months |
 | Team Wallet 1 | 20% | 2,000,000,000 | CPRvYwXzfvDeXs7PB17QNJSvkzQvtDkaez1ZHNfaXPgS | 24 Months |
