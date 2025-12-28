@@ -1,0 +1,160 @@
+{
+  "name": "Liva",
+  "symbol": "LIVA",
+  "mint_address": "9jPXC1JL4VkRBEyEuUA4TrGAKUbh852Z734c1bBDQy74",
+  "description": "Liva (LIVA) is a Solana-based token powering a decentralized prediction market ecosystem. Liva enables users to participate in markets, staking, rewards, and community-driven growth.",
+  "image": "https://liva.win/assets/liva.png",
+  "external_url": "https://liva.win/",
+  "seller_fee_basis_points": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null,
+  "attributes": [
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Category", "value": "Prediction Market" },
+    { "trait_type": "Token Standard", "value": "SPL" },
+    { "trait_type": "Total Supply", "value": "10000000000" },
+    { "trait_type": "Decimals", "value": "6" },
+    {
+      "trait_type": "Mint Address",
+      "value": "9jPXC1JL4VkRBEyEuUA4TrGAKUbh852Z734c1bBDQy74"
+    }
+  ],
+  "properties": {
+    "mint_address": "9jPXC1JL4VkRBEyEuUA4TrGAKUbh852Z734c1bBDQy74",
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://liva.win/assets/liva.png",
+        "type": "image/png"
+      }
+    ],
+    "tokenomics": {
+      "total_supply": 10000000000,
+      "decimals": 6,
+      "allocations": [
+        {
+          "name": "Initial Liquidity",
+          "percent": 10,
+          "amount": 1000000000,
+          "wallet": "61cPxiqGBrdV2eQLvqAWe7GpaTWss4QJhJNN8h5xEFKN",
+          "vesting": false,
+          "tge_unlock_percent": 100,
+          "cliff_months": 0,
+          "unlock_duration_months": 0,
+          "frequency": "Instant"
+        },
+        {
+          "name": "Liquidity Reserve",
+          "percent": 10,
+          "amount": 1000000000,
+          "wallet": "GSZHpwx4d4vrdDGiHWjiL53JkWpHENPwfobt56eJMKmy",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 12,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Liquidity Management",
+          "percent": 5,
+          "amount": 500000000,
+          "wallet": "EXPcmZBzNSZHUsvef3HRz5R5mEAgRWPB4ZXYtd4mZXLc",
+          "vesting": false,
+          "tge_unlock_percent": 100,
+          "cliff_months": 0,
+          "unlock_duration_months": 0,
+          "frequency": "Instant"
+        },
+        {
+          "name": "Head Manage",
+          "percent": 1,
+          "amount": 100000000,
+          "wallet": "JCQdZvpcBLuXf4xGRWWnrUzLCduukaAzUe2ggnyXxnZu",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 24,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Advertisement",
+          "percent": 10,
+          "amount": 1000000000,
+          "wallet": "E1ZMEtAfu4VFh8V9JCssf7f9pDVUTLmQiJoFg3EwUH89",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 12,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Team Wallet 1",
+          "percent": 20,
+          "amount": 2000000000,
+          "wallet": "CPRvYwXzfvDeXs7PB17QNJSvkzQvtDkaez1ZHNfaXPgS",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 24,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Team Wallet 2",
+          "percent": 20,
+          "amount": 2000000000,
+          "wallet": "D8n2MUC1G92a28jfdTi8ZeDaKLpimnx6WiHSxta6x8Jp",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 24,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Team Wallet 3",
+          "percent": 10,
+          "amount": 1000000000,
+          "wallet": "2vHH8KurVmYPLeDuebsrfGpw67FVG4g3QBvawThN4dwF",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 24,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Development",
+          "percent": 7,
+          "amount": 700000000,
+          "wallet": "EPD9brHxmerCAgMVVDfCrxz7aeNn4M2etAfZXNcipd9g",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 12,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Service Provider",
+          "percent": 5,
+          "amount": 500000000,
+          "wallet": "8WAERDnWei1d9iHjD5os81jnHgKuyqKKDJP5CbY4Y2Wn",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 12,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Staking Rewards",
+          "percent": 2,
+          "amount": 200000000,
+          "wallet": "61cPxiqGBrdV2eQLvqAWe7GpaTWss4QJhJNN8h5xEFKN",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 12,
+          "frequency": "Monthly"
+        }
+      ]
+    }
+  }
+}
